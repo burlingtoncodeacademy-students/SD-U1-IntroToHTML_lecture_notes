@@ -1,3 +1,6 @@
+# What is HTML
+- **Hyper-Text Markup Language**: The framework of what the browser will render.
+
 # HTML element
 - **DOCTYPE**: declares exactly what it is, an HTML document.
 - **lang**: notes what the language of the document. Helps assist search engines & browsers.

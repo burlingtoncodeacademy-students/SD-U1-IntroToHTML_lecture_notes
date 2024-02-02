@@ -19,7 +19,9 @@ There are two different branches associated with this lesson.
   - How to create directories & files.
 
 ## Files / Folders Provided in this Lesson
-- NA
+- assets
+  - `Layout-Sampling.jpg`
+  - `UPRIGHT_LOGO.png`
 
 ## Resources
 - [HTML Charset](https://www.w3schools.com/html/html_charset.asp)
